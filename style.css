@@ -1,0 +1,38 @@
+.title{
+  color:red;
+  font-family: 'comicsans';
+  font-size:40px;
+  text-decoration: underline;
+  background-image: url("swiggety_swoot.gif");
+  padding-bottom: 120px;
+
+}
+
+.text{
+  color:blue;
+  font-size:100px;
+  text-shadow: 2px 2px #ff0000;
+}
+
+.image{
+width: 1000px;
+position: relative;
+left:
+
+}
+
+.chart{
+  background-image: url('cloud-08.jpg');
+  width: 1400px;
+  height: 400px;
+}
+
+
+.circle{
+  fill: olivedrab;
+  stroke: orangerred;
+  stroke-width: 100;
+  r: 40
+
+
+}
